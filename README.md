@@ -21,6 +21,6 @@
   <a target="_blank" href="https://www.instagram.com/eduardo_c126" style="display: inline-block;" title="@eduardo_c126"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
  
 </p>
-
+<br><br><br>
 <p align="right">Created by: <a href="https://github.com/eduardoc126">eduardoc126</a></p>
 <p align="right">Last Edited on: 26/07/2024</p>
