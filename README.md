@@ -1,5 +1,12 @@
-<h1 align="center">Welcome to my profile</h1>
-<p align="center">My name is Marcos Eduardo, I'm 18 years old and I'm a <strong>Font-end</strong> developer</p>
+<h1 align="center">Welcome to my repo</h1>
+<p align="center">
+  Make good use of the code, but remember to change the encryption code (4002892240028922400289222). Modify it as you wish in
+  <br>
+  "shifts = [4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 2]" in <strong>line 32</strong>,
+  <br>
+  making sure it has 26 numbers!!
+  <br>S2
+</p>
 <br>
 
 <h3 align="center">Code made in</h3>
@@ -14,6 +21,6 @@
   <a target="_blank" href="https://www.instagram.com/eduardo_c126" style="display: inline-block;" title="@eduardo_c126"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
   <a target="_blank" href="https://www.youtube.com/@eduardo_c126" style="display: inline-block;" title="@eduardo_c126"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"></p>
 
+<p align="right">Created by: <a href="https://github.com/eduardoc126">eduardoc126</a></p>
 <p align="right">Last Edited on: 25/07/2024</p>
