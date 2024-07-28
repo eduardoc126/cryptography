@@ -15,15 +15,6 @@ def letra_codficada(letter, shift_amount):
 
 #////////////////////////////////
 
-def lasso_word(word, shift_amount):
-    decoded_word = ""
-    for letter in word:
-        decoded_letter = letra_codficada(letter, shift_amount)
-        decoded_word += decoded_letter
-    return decoded_word
-
-#////////////////////////////////
-
 print("Padrão: 4002892240028922400289222")
 
 texto = input("Digite uma senha pra criptografar: ")
