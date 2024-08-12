@@ -22,5 +22,4 @@
  
 </p>
 <br><br><br>
-<p align="right">Created by: <a href="https://github.com/eduardoc126">eduardoc126</a></p>
-<p align="right">Last Edited on: 26/07/2024</p>
+<p align="right"><a href="https://marcoseduardo.dev.br">eduardoc126</a></p>
