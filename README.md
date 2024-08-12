@@ -9,9 +9,9 @@
 </p>
 <br>
 
-<h3 align="center">Code made in</h3>
+<h3 align="center">Linguagens usadas</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 </p>
 <br><br><br>
 <p align="right"><a href="https://marcoseduardo.dev.br">eduardoc126</a></p>
