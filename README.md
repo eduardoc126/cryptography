@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to my first project</h1>
 <p align="center">
-  Make good use of the code, but remember to change the encryption code (4002892240028922400289222). Modify it as you wish in
+  Para codificar uma mensagem usando <strong>Cifra de César</strong> você tem que alterar:
   <br>
-  "shifts = [4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 2]" in <strong>line 32</strong>,
+  "shifts = [4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 4, 0, 0, 2, 8, 9, 2, 2, 2]" na <strong>linha 32</strong> do código,
   <br>
-  making sure it has 26 numbers!!
-  <br>S2
+  lembrando sempre que deve conter 26 numeros!!
 </p>
 <br>
 
